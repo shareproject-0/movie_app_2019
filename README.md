@@ -1,3 +1,3 @@
 # Movie App 2019
 
-React JS Fundamentals Course (2019 Update!)
+리액트 2번째 프로젝트 영화웹사이트
